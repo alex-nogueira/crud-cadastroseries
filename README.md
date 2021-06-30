@@ -1,1 +1,1 @@
-# crud-cadastroseries
+# crud-cadastro de series
